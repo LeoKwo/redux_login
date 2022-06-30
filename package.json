@@ -1,6 +1,6 @@
 {
-  "homepage": "https://leokwo.github.io/redux_example/",
-  "name": "redux_example",
+  "homepage": "https://leokwo.github.io/redux_login/",
+  "name": "redux_login",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
